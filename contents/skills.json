@@ -1,1 +1,36 @@
-[]
+[{
+	"pl":"C",
+	"level":"Proficient"
+	},
+	{
+	"pl":"C++",
+	"level":"Proficient"
+	},
+	{
+	"pl":"Python 2/3",
+	"level":"Proficient"
+	},
+	{
+	"pl":"SQL",
+	"level":"Intermediate"
+	},
+	{
+	"pl":"Java",
+	"level":"Beginner"
+	},
+	{
+	"pl":"Scala",
+	"level":"Beginner"
+	},
+	{
+	"pl":"C#",
+	"level":"Learning"
+	},
+	{
+	"pl":"JavaScript",
+	"level":"Learning"
+	},
+	{
+	"pl":"HTML",
+	"level":"Learning"
+}]
