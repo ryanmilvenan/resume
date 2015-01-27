@@ -1,1 +1,15 @@
-[]
+[{
+	"names": "Minerva McGonagall",
+	"position": "Transfiguration Professor and Head of Gryffindor House",
+	"email": "minerva.mcgonagall@hogwarts.edu"
+},
+{
+	"names": "Barney Stinson",
+	"position": "P.L.E.A.S.E.",
+	"email": "barney.stinson@gnb.com"
+},
+{
+	"names": "Elizabeth White",
+	"position": " Former Instructor at University of Colorado Boulder",
+	"email": "elizabeth.white@colorado.edu"
+}]
