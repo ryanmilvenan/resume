@@ -1,3 +1,4 @@
 {
-    "baseUrl": "/resume/"
+    "baseUrl": "/resume/",
+    "ignore": ["**/.DS_Store"]
 }

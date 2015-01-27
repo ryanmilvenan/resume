@@ -1,2 +1,14 @@
 h3 Portfolio
-p (todo)
+each item in contents["portfolio.json"].metadata
+	p
+	h5= item.projectTitle
+	h6= item.description
+	table
+	tbody
+		each imageName in item.images
+			tr
+				td 
+					img(src='images/' + imageName, width='30%', height='30%')
+
+	p
+	p
