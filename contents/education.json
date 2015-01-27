@@ -1,1 +1,10 @@
-[]
+[{
+	"name": "Downers Grove South High School",
+	"years": 4,
+	"degree": "High school diploma"
+},
+{
+	"name": "University of Colorado Boulder",
+	"years": 2.5,
+	"degree": "B.S. in Computer Science - In Progress"
+}]
