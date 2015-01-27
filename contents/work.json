@@ -1,0 +1,13 @@
+[{
+    "image": "fluentstream.png",
+    "employer": "FluentStream Technologies Inc",
+    "title": "Software Developer",
+    "date": "January 2014 - June 2014",
+    "tasks": ["Worked within an agile development lifecycle", "Front End design and development in HTML and CSS, and organized by Backbone.js", "Back End API development in PHP", "Designed and implemented an integration framework in Node.js which handled communication with various customer relationship management APIs."]
+}, {
+    "image": "wkno.jpeg",
+    "employer": "WKNO-FM",
+    "title": "Reporter",
+    "date": "January 2013 - December 2013",
+    "tasks": ["Interviewed prominent personalities in a variety of fields", "Oversaw the development of radio reports from inception to completion", "Assisted in information collection from various business in and around the Memphis area", "Wrote print news articles from the WKNOfm.org website."]
+}]

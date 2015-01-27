@@ -1,2 +1,13 @@
 h3 Work Experiences
-p (todo)
+each job in contents['work.json'].metadata
+    div.row
+        div.three.columns
+            img(src='images/' + job.image)
+        div.seven.columns
+            h6.employer= job.employer
+            h6= job.title
+            h6= job.date
+    ul
+    each task in job.tasks
+        li=task
+    p
