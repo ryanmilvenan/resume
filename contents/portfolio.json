@@ -1,10 +1,7 @@
-[{
-	"projectTitle": "Mafia Party Game",
-	"description" : "This is an application that I built only for my personal interest but turned out to be a good product and I published it to App Store and Google Play.\nIt basically lets you play the popular game Mafia Party Game without the need to have a moderator. This decenteralized app takes care of that for you. You can also customize the rules, lenght of the day and night, etc.",
-	"images": ["image1.png","image2.png"]
- },
- {
-	"projectTitle": "Bit Charity",
-	"description" : "This is an application that enables fund raisers to easily receive money from all around the world using BitCoin. It also lets you track the organization's money, this way, doners will be able to see where their money goes.",
-	"images": ["image3.png","image4.png"]
- }]
+[
+    {
+	"projectTitle": "OpenGL ES 3.0 Submarine Experience",
+	"description" : "The project was built to run on iOS devices and written entirely using OpenGL E.S. 3.0",
+	"images": ["sub.png"]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "fw":"Node.js",
+        "level":"Proficient"
+    },
+    {
+        "fw":"Backbone.js",
+        "level":"Proficient"
+    },
+    {
+        "fw":"Less",
+        "level":"Proficient"
+    },
+    {
+        "fw":"SQL",
+        "level":"Proficient"
+    },
+    {
+        "fw":"CouchDB",
+        "level":"Proficient"
+    },
+    {
+        "fw":"MongoDB",
+        "level":"Proficient"
+    },
+    {
+        "fw":"Jade Templating",
+        "level":"Intermediate"
+    }
+]

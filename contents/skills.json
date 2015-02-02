@@ -1,34 +1,38 @@
 [{
-	"pl":"C",
+	"pl":"Javascript",
 	"level":"Proficient"
 	},
 	{
-	"pl":"C++",
+	"pl":"Objective-C",
 	"level":"Proficient"
 	},
 	{
-	"pl":"Python 2/3",
+	"pl":"HTML 5",
 	"level":"Proficient"
-	},
-	{
-	"pl":"SQL",
-	"level":"Intermediate"
 	},
 	{
 	"pl":"Java",
-	"level":"Beginner"
-	},
-	{
-	"pl":"Scala",
-	"level":"Beginner"
+	"level":"Proficient"
 	},
 	{
 	"pl":"C#",
-	"level":"Learning"
+	"level":"Proficient"
 	},
 	{
-	"pl":"JavaScript",
-	"level":"Learning"
+	"pl":"Python",
+	"level":"Intermediate"
+	},
+	{
+	"pl":"C",
+	"level":"Intermediate"
+	},
+	{
+	"pl":"C++",
+	"level":"Intermediate"
+	},
+	{
+	"pl":"Ruby",
+	"level":"Intermediate"
 	},
 	{
 	"pl":"HTML",

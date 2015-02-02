@@ -9,3 +9,15 @@ table.u-full-width
     tr
       td= skills.pl
       td= skills.level
+    
+table.u-full-width
+  thead
+  thead
+    tr
+      th Frameworks
+      th Level
+  tbody
+  each skills in contents['skills2.json'].metadata     
+    tr
+      td= skills.fw
+      td= skills.level
